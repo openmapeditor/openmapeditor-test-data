@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Test">
+  <trk>
+    <name>Test Path with Elevation</name>
+    <trkseg>
+      <trkpt lat="47.3769" lon="8.5417"><ele>408</ele></trkpt>
+      <trkpt lat="47.3770" lon="8.5420"><ele>410</ele></trkpt>
+      <trkpt lat="47.3772" lon="8.5425"><ele>415</ele></trkpt>
+      <trkpt lat="47.3775" lon="8.5430"><ele>420</ele></trkpt>
+    </trkseg>
+  </trk>
+</gpx>
