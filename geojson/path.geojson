@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manhattan Walking Route"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.9855, 40.758],
+          [-73.9851, 40.7589],
+          [-73.9844, 40.7603],
+          [-73.9833, 40.7625],
+          [-73.982, 40.765],
+          [-73.981, 40.767]
+        ]
+      }
+    }
+  ]
+}

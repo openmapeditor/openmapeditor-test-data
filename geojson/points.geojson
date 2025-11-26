@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Central Park",
+        "description": "A large public park in Manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9654, 40.7829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Times Square",
+        "description": "Famous intersection in New York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9855, 40.758]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brooklyn Bridge",
+        "description": "Historic bridge connecting Manhattan and Brooklyn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9969, 40.7061]
+      }
+    }
+  ]
+}

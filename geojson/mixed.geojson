@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Empire State Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9857, 40.7484]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "5th Avenue Walk"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.9857, 40.7484],
+          [-73.9851, 40.754],
+          [-73.9844, 40.758]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madison Square Park"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-73.9881, 40.7424],
+            [-73.9874, 40.7424],
+            [-73.9874, 40.7433],
+            [-73.9881, 40.7433],
+            [-73.9881, 40.7424]
+          ]
+        ]
+      }
+    }
+  ]
+}
